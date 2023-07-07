@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cendrol_Technical_Task/static/css/main.334bdeb1.css",
+    "main.js": "/Cendrol_Technical_Task/static/js/main.3efe0fcc.js",
+    "index.html": "/Cendrol_Technical_Task/index.html",
+    "static/media/search.svg": "/Cendrol_Technical_Task/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Cendrol_Technical_Task/static/css/main.334bdeb1.css.map",
+    "main.3efe0fcc.js.map": "/Cendrol_Technical_Task/static/js/main.3efe0fcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.3efe0fcc.js"
+  ]
+}
